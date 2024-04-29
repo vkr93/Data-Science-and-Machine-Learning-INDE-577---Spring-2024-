@@ -2,7 +2,7 @@
 
 This repository is made as a final project of graduate-level course, INDE 577, taught by Dr. Randi Davilla. It covers the fundamentals of Data Science and Machine Learning. It is design in a way to help students learn from scratch.  
 
-![Machine learning](Images/image-1.png)
+![Machine learning](Images/Image_1.jpeg)
 
 ### Data Science (DS)
 Data Science encompasses a broader field that involves collecting, cleaning, analyzing, and interpreting data to extract insights and inform decision-making. It combines elements from statistics, machine learning, data engineering, data visualization, and domain knowledge to create comprehensive solutions.
