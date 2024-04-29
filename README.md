@@ -1,8 +1,11 @@
 # INDE-577--Data-Science-and-Machine-Learning--Spring-2024-
 
+
+
 This repository is made as a final project of graduate-level course, INDE 577, taught by Dr. Randi Davilla. It covers the fundamentals of Data Science and Machine Learning. It is design in a way to help students learn from scratch.  
 
-![Machine learning](Images/Image_1.jpeg) **Image source:**[Inside Big data](https://insidebigdata.com/2024/03/25/the-data-disconnect-a-key-challenge-for-machine-learning-deployment/)
+
+![Machine learning](Images/Image_1.jpeg) **Image source:** [Inside Big data](https://insidebigdata.com/2024/03/25/the-data-disconnect-a-key-challenge-for-machine-learning-deployment/)
 
 ### Data Science (DS)
 Data Science encompasses a broader field that involves collecting, cleaning, analyzing, and interpreting data to extract insights and inform decision-making. It combines elements from statistics, machine learning, data engineering, data visualization, and domain knowledge to create comprehensive solutions.
@@ -37,3 +40,7 @@ Machine Learning is an essential component of Data Science. While Data Science c
 
 
 
+**References** 
+* [Javapoint](https://www.javatpoint.com/machine-learning)
+* [IBM Machine Learning](https://www.ibm.com/topics/machine-learning)
+ 
