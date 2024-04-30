@@ -1,4 +1,4 @@
-#The Decision Tree Algorithm
+# The Decision Tree Algorithm
 
 ![Image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OLJWt9hD2zTS-x3gRhYuqg.png)
 
