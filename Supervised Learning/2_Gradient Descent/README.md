@@ -37,7 +37,7 @@ There are two main types of gradient descent, both of which are programmed from 
 When there are one or more inputs you can use a process of optimizing the values of the coefficients by iteratively minimizing the error of the model on your training data.
 
 
-To learn more about GD watch this [vidoe](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=416s&ab_channel=3Blue1Brown)
+To learn more about GD watch this [video](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=416s&ab_channel=3Blue1Brown)
 
 ### Dataset
 
