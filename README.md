@@ -66,10 +66,20 @@ The following is the list of algorithms developed and discussed in this reposito
 
 1. [K-means Clustering](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/1_K_means_Clustering)
 2. [DBSCAN Clustering](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/2_DBSCAN)
-3. [Principal Component Analysis](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/4_Principal%20Component%20Analysis)
+3. [Principal Component Analysis](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/3_Principal%20Component%20Analysis)
+
+### Datasets
+
+All datasets used in this work are publically available. The source and description of each dataset used is provided within the respective model.
+
+### Tools and Packages 
+
+Python, Visual Studio Code, Jupyter Nootbooks, Scikit-learn, TensorFlow, Keras, Matplotlib, Numpy, Pandas, Seaborn.
 
 
+### About the Author
 
+Vinod is 2nd year Ph.D. student in the department of Materials Science and Nanoengineering at Rice University. His primarily research interest are in 2D catalysis for clean energy and environment. To know more about authod: [Google Scholar](https://scholar.google.com/citations?user=iCQ1b-MAAAAJ&hl=en&authuser=1) [LinkedIN](https://www.linkedin.com/in/vkr93/)
 
 
 
@@ -77,3 +87,4 @@ The following is the list of algorithms developed and discussed in this reposito
 **References** 
 * [Javapoint](https://www.javatpoint.com/machine-learning)
 * [IBM Machine Learning](https://www.ibm.com/topics/machine-learning)
+* [Hands on Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
