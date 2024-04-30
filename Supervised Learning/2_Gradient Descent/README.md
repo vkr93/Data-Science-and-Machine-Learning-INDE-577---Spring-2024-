@@ -12,18 +12,6 @@ The best way to define the local minimum or local maximum of a function using gr
 
 source: [Javapoint](https://www.javatpoint.com/gradient-descent-in-machine-learning)
 
-The algorithm can be expressed mathematically as follows:
-
-1.  Initialize the weights of the model with random values.
-
-2.  Compute the gradient of the MSE loss function with respect to the weights:
-![image](Images/Gradient_descent.png)
-
-
-
-4. Repeat steps 2-3 until the cost function converges to a minimum or a maximum number of iterations is reached.
-
-
 The main objective of using a gradient descent algorithm is to minimize the cost function using iteration. To achieve this goal, it performs two steps iteratively:
 
 *   Calculates the first-order derivative of the function to compute the gradient or slope of that function.
