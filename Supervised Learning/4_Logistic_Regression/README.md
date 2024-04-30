@@ -18,13 +18,21 @@ For example, we have two classes Class 0 and Class 1 if the value of the logisti
 *   In Logistic regression, instead of fitting a regression line, we fit an “S” shaped logistic function, which predicts two maximum values (0 or 1).
 
 
+### Types of Logistic Regression
+O
+n the basis of the categories, Logistic Regression can be classified into three types:
+
+1.  Binomial: In binomial Logistic regression, there can be only two possible types of the dependent variables, such as 0 or 1, Pass or Fail, etc.
+2.  Multinomial: In multinomial Logistic regression, there can be 3 or more possible unordered types of the dependent variable, such as “cat”, “dogs”, or “sheep”
+3.  Ordinal: In ordinal Logistic regression, there can be 3 or more possible ordered types of dependent variables, such as “low”, “Medium”, or “High”.
+
 ## Summary
 
 In summary, logistic regression can be implemented using a single output neuron with a sigmoid activation function. The neuron takes a set of input features, applies a weighted sum to them, adds a bias term, and then passes the result through the sigmoid function to obtain the predicted probability of the binary outcome. The neuron can be trained using the cross-entropy loss and gradient descent to find the values of the weights and bias that minimize the cost function. Once the parameters have been learned, the neuron can be used to predict the probability of the binary outcome for a new input vector.
 
 ## Dataset
 
-[Breast Cancer Datset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
+[Breast Cancer Datset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) was used in the notebook.
 
 
 Resources
