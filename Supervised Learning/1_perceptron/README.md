@@ -21,7 +21,8 @@ As a binary classifier, perceptrons are meant to classify input into two groups:
 
 2. **Predict Results**
 
-![image](Images/perceptron)
+![image](https://camo.githubusercontent.com/89394bf7f9a189643712441698e39fc7648fbf25557be99a25bb983a5869a013/68747470733a2f2f63646e2e616e616c79746963737669646879612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f3133557064796d51782d433174424b526e664437654f672e676966)
+
 
 
 ### Limitations of Perceptrons
