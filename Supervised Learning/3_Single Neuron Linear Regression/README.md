@@ -25,6 +25,7 @@ Linear regression has been around for over 200 years and has been studied from e
 2. **Independence:** The observations in the dataset are independent of each other. This means that the value of the dependent variable for one observation does not depend on the value of the dependent variable for another observation. If the observations are not independent, then linear regression will not be an accurate model.
 
 3.  **Homoscedasticity:** Across all levels of the independent variable(s), the variance of the errors is constant. This indicates that the amount of the independent variable(s) has no impact on the variance of the errors. If the variance of the residuals is not constant, then linear regression will not be an accurate model. 
+
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20231123113103/python-linear-regression-5.png)
 
 4.  **Normality:** The residuals should be normally distributed. This means that the residuals should follow a bell-shaped curve. If the residuals are not normally distributed, then linear regression will not be an accurate model.
