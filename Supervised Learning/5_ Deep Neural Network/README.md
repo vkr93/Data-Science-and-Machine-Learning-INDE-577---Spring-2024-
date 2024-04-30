@@ -16,7 +16,7 @@ A multilayer feedforward network, also known as a multilayer perceptron (MLP), i
 *   **Activation Function (aka transfer function):** defines output of that node given a set of inputs. Its behavior is similar to the behavior of a single perceptron, but it is the ability to use nonlinear activation functions that allow networks to computer nontrivial problems with a small number of nodes
 *   **Learning rule:** Algorithm which modifies the parameters of the neural network, in order for a given input to the network to produce a favored output. This learning process is often just modifying the weights and thresholds
 
-[image](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141)
+![image](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141)
 
 ### Dataset
 
