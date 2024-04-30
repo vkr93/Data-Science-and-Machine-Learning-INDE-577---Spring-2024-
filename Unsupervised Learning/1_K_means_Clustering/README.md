@@ -26,11 +26,11 @@ The algorithm outputs 1) the centroids of the k clusters, which can be used to l
 2.  Select k random points from the data as centroids.
 3. Calculate the Eucledean Distance from each feature vector to each centroid and assign each datapoint to the closest cluster centroid.
 
-[image](https://user-images.githubusercontent.com/89811204/132998845-37a6f436-47b4-4337-a030-72bd9212d59f.png)
+![image](https://user-images.githubusercontent.com/89811204/132998845-37a6f436-47b4-4337-a030-72bd9212d59f.png)
 
 The algorithm in the attached notebook uses the Euclidean Distance, but there are two other ways of calculating diatance that are used in machine learning algorithms:
 
-    *   Cosine distance: determines the cosine of the angle between the point vectors of two points in n dimensional space. The closer the point vectors are by angle, the higher the Cosine Similarity. The equation is below:
+*   Cosine distance: determines the cosine of the angle between the point vectors of two points in n dimensional space. The closer the point vectors are by angle, the higher the Cosine Similarity. The equation is below:
 
 ![image](https://user-images.githubusercontent.com/89811204/146046597-0f8d9449-30d1-4bc7-9560-1b271cff737b.png)
 
