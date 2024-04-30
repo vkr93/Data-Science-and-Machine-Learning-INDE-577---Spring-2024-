@@ -1,9 +1,7 @@
 # Linear Regression
 
-
-(https://towardsdatascience.com/linear-regression-explained-1b36f97b7572)![medium](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N1-K-A43_98pYZ27fnupDA.jpeg)
-
-**Source:** [Towards Data Science]
+![medium](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*N1-K-A43_98pYZ27fnupDA.jpeg)
+*Source:** [Towards Data Science](https://towardsdatascience.com/linear-regression-explained-1b36f97b7572)
 
 [Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is a type of regression analysis that is used to predict a continuous target variable y based on one or more input features X. The model assumes a linear relationship between the input features and the target variable, and tries to fit a linear function to the data. In single neuron linear regression, a single neuron is used to model the relationship between the input variables and the output variable.
 
