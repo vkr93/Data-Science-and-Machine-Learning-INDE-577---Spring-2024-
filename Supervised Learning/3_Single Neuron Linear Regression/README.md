@@ -8,6 +8,7 @@
 [Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is a type of regression analysis that is used to predict a continuous target variable y based on one or more input features X. The model assumes a linear relationship between the input features and the target variable, and tries to fit a linear function to the data. In single neuron linear regression, a single neuron is used to model the relationship between the input variables and the output variable.
 
 ![image](https://analyticsindiamag.com/wp-content/uploads/2019/12/aim-2019-1.png) 
+
 Source: [ANN with Linear Regression](https://analyticsindiamag.com/ann-with-linear-regression/)
 
 Linear regression has been around for over 200 years and has been studied from every possible. Often different angles have been given different names:
@@ -36,6 +37,7 @@ Linear regression has been around for over 200 years and has been studied from e
 The [Concrete Compressive Strength Dataset](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) is a collection of measurements of the compressive strength of concrete. It is available on the UCI Machine Learning Repository and contains data from 1030 samples of concrete, with eight input features such as cement, water, and coarse aggregate, and a single output variable, the compressive strength.
 
 
-References/Resorces
+**References/Resorces**
+
 1. [Linear Regression](https://www.geeksforgeeks.org/ml-linear-regression/?ref=header_search)
 2. [Understanding ANN with LR](https://analyticsindiamag.com/ann-with-linear-regression/)
