@@ -38,9 +38,42 @@ Machine Learning is a subset of artificial intelligence (AI) that involves devel
 ### Relationship between ML and DS
 Machine Learning is an essential component of Data Science. While Data Science covers the entire process from data collection to insight generation, Machine Learning focuses on developing algorithms and models to analyze data and make predictions. Data Science often relies on Machine Learning to build predictive models and extract actionable insights from large datasets.
 
+## Course Description 
+
+The Course **Data Science and Machine learning** offered during the Spring 2024 semester at Rice University. 
+
+**Topics include:** Introduction to scikit-learn, Keras and tensorflow2, linear and logistic regression, clustering, support vector machines, random forest trees, neural networks, deep learning, natural language processing. 
+
+
+Files in this repository are Jupyter Notebook projects demonstrating machine learning algorithms learned in class and referenced in various textbooks. This repository primarily contains supervised learning algorithms and unsupervised learning algorithms.
+
+## Content
+
+The following is the list of algorithms developed and discussed in this repository
+
+### Supervised Learning
+
+1. [Perceptron](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/1_perceptron)
+2. [Gradient Descent](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/2_Gradient%20Descent)
+3. [Single Neuron Linear Regression](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/3_Single%20Neuron%20Linear%20Regression)
+4. [Logistic Regression](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/4_Logistic_Regression)
+5. [Deep Neural Network](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/5_%20Deep%20Neural%20Network)
+6. [K-Nearest Neighbors](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/6_K_Nearest%20Neighbors)
+7. [Decision Trees](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/7_Decision%20Trees)
+8. [Ensemble Learning](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Supervised%20Learning/8_Ensemble%20Random%20Forest)
+
+### Unsupervised Learning
+
+1. [K-means Clustering](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/1_K_means_Clustering)
+2. [DBSCAN Clustering](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/2_DBSCAN)
+3. [Principal Component Analysis](https://github.com/vkr93/Data-Science-and-Machine-Learning-INDE-577---Spring-2024-/tree/main/Unsupervised%20Learning/4_Principal%20Component%20Analysis)
+
+
+
+
+
 
 
 **References** 
 * [Javapoint](https://www.javatpoint.com/machine-learning)
 * [IBM Machine Learning](https://www.ibm.com/topics/machine-learning)
- 
