@@ -22,4 +22,6 @@ K-Nearest Neighbor (KNN) is a non-parametric and supervised machine learning alg
 
 **Calculating distance** between the point and each point in the dataset (Euclidean, Manhattan, and Minkowski istance methods are common metrics for this). Note that all of these algorithms are only valid for continuous variables; Hamming distance must be used for categorical variables
 
+![distance](https://miro.medium.com/v2/resize:fit:640/format:webp/1*10Ax3s9vQzPPYeTTVhlQKg.png)
+
 
