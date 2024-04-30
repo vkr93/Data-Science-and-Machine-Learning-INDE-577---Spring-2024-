@@ -27,9 +27,11 @@ Overall, unsupervised learning plays a crucial role in many areas of data scienc
 
 The following is the list of unsupervised learning algorithms developed and discussed in this repo.
 
-### 1.  [K-Means Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/1_k_means_clustering) 
-### 2.  [DBSCAN Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/2_DBSCAN)
-### 3.  [Principal Component Analysis](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/4_PCA)
+1.  [K-Means Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/1_k_means_clustering) 
+
+2.  [DBSCAN Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/2_DBSCAN)
+
+3.  [Principal Component Analysis](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/4_PCA)
 
 ## References
 1.  [Applications of unsupervised learning](https://databasetown.com/unsupervised-learning-types-applications/)
