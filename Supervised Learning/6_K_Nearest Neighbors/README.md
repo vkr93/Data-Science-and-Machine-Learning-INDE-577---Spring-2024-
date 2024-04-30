@@ -6,7 +6,7 @@ K-Nearest Neighbor (KNN) is a non-parametric and supervised machine learning alg
 ![KNN](https://intuitivetutorial.com/wp-content/uploads/2023/04/knn-1.png)
 
 
-## How KNN Works
+### How KNN Works
 
 1.  Data Preparation: Start by cleaning and preprocessing the data by removing missing values and scaling the features to ensure they are on the same scale.
 
@@ -24,4 +24,11 @@ K-Nearest Neighbor (KNN) is a non-parametric and supervised machine learning alg
 
 ![distance](https://miro.medium.com/v2/resize:fit:640/format:webp/1*10Ax3s9vQzPPYeTTVhlQKg.png)
 
+## Dataset
 
+[Diabetes](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset) dataset was used for this model. 
+
+
+## Resources
+1.  [KNN](https://www.geeksforgeeks.org/k-nearest-neighbours/?ref=header_search)
+2.  [Overview of KNN](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn)
