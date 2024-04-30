@@ -47,9 +47,14 @@ While perceptrons are foundational, they have limitations:
 - **Linearity**: Perceptrons are linear classifiers, which means they can't solve problems that aren't linearly separable. A classic example is the XOR problem, where no linear boundary can separate the two classes.
 - **Single-Layer**: A perceptron on its own is a single-layer neural network. Multi-layer perceptrons (also known as feedforward neural networks) were developed to address this limitation, allowing for more complex problem-solving.
 
+### Dataset
+The dataset used was taken from [Iris dataset](https://www.kaggle.com/datasets/uciml/iris)
+
 **Read more about Perceptron:**
 1.  [Understanding the Perceptron Algorthim](https://medium.com/analytics-vidhya/understanding-the-perceptron-algorithm-4a368f493109)
 2. [Guided tutorial](https://pabloinsente.github.io/the-perceptron)
+
+
 
 
 
