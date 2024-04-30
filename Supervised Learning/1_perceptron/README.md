@@ -1,3 +1,5 @@
+## The Perceptron 
+
 A [perceptron](https://en.wikipedia.org/wiki/Perceptron) is a fundamental building block of neural networks and a basic example of a linear classifier in the field of machine learning and artificial intelligence. It represents the simplest form of a neural network model, typically used for binary classification tasks. It was developed in the 1950s by **Frank Rosenblatt**, the perceptron is designed to mimic the behavior of a biological neuron, taking in inputs and producing an output based on a linear combination of those inputs.
 
 
