@@ -79,7 +79,7 @@ Python, Visual Studio Code, Jupyter Nootbooks, Scikit-learn, TensorFlow, Keras, 
 
 ### About the Author
 
-Vinod is 2nd year Ph.D. student in the department of Materials Science and Nanoengineering at Rice University. His primarily research interest are in 2D catalysis for clean energy and environment. To know more about authod: [Google Scholar](https://scholar.google.com/citations?user=iCQ1b-MAAAAJ&hl=en&authuser=1) [LinkedIN](https://www.linkedin.com/in/vkr93/)
+Vinod is 2nd year Ph.D. student in the department of Materials Science and Nanoengineering at Rice University. His primarily research interest are in 2D catalysis for clean energy and environment. To know more about authod: [Google Scholar](https://scholar.google.com/citations?user=iCQ1b-MAAAAJ&hl=en&authuser=1) | [LinkedIn](https://www.linkedin.com/in/vkr93/)
 
 
 
