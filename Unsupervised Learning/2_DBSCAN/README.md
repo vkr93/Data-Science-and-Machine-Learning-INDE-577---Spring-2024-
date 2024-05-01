@@ -17,6 +17,10 @@ The working of DBSCAN can be summarized in the following steps:
 
 DBSCAN can handle clusters of different shapes and sizes and can also identify noise points that do not belong to any cluster.
 
+### Difference b/w DBSCAN and K-means
+[image](https://media.geeksforgeeks.org/wp-content/uploads/PicsArt_11-17-08.07.10-300x300.jpg)
+
+
 
 ### Dataset
 
