@@ -31,6 +31,12 @@ These are basically performed on a square symmetric matrix. It can be a pure sum
 ![image](https://miro.medium.com/v2/resize:fit:1400/0*PZk89dEQZubeWz4-)
 Source: [Medium](https://medium.com/@yashj302/principal-component-analysis-pca-nlp-python-ce9caa58bd7a)
 
+
+### Dataset
+
+**Iris** dataset was used.
+
 ### References:
 1. [PCA](https://www.geeksforgeeks.org/principal-component-analysis-with-python/?ref=header_search)
 2. [Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python) 
+
